@@ -70,7 +70,7 @@ while not done:
     # }
     glEnd() # End drawing lines
 
-    glBegin(GL_TRIANGLES) # Start drawing triangles
+    glBegin(GL_TRIANGLES) # Start drawing triangless
     # {
     glVertex2i(200, 200)  # Vertex 1
     glVertex2i(250, 350) # Vertex 2
